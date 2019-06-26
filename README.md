@@ -1,6 +1,6 @@
 # Project 1 - *Simple Todo App*
 
-**Tackle Todo** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
+**Simple Todo App** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
 
 Submitted by: **Khushi Chaudhari**
 
@@ -32,7 +32,6 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
 The biggest challenges I encountered was dealing with the new technology (macs and androids) and learning how Android Studio works.
 
 ## License
